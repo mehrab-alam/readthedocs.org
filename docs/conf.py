@@ -221,3 +221,4 @@ extlinks = {
 
 # Disable epub mimetype warnings
 suppress_warnings = ["epub.unknown_project_files"]
+templates_path = ['_templates']
